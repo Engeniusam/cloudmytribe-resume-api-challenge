@@ -8,3 +8,4 @@ async function updateCounter() {
 }
 
 updateCounter();
+// function that makes the counter
