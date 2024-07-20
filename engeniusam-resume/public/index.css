@@ -1,0 +1,61 @@
+.profile-pic {
+    border-radius: 50%;
+    box-shadow: 0px 4px 6px 2px lightgrey;
+    width:100%
+}
+
+.profile-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-top: 5%;
+}
+
+.profile-name {
+    color: #006479;
+}
+
+.skills {
+    background-image: linear-gradient(to right , #00bf72, #004d7a );
+}
+
+.resume-box a {
+    padding-left: 1rem;
+    color: #0f687d;
+}
+
+.resume {
+    height: 5%;
+    width: 5%;
+}
+
+.section-heading{
+    color: #368377;
+}
+
+.work-experience, .education {
+    color: #007478;
+}
+
+.work-titles, .education-titles {
+    color: #005e7a;
+}
+
+/*.contact-me {
+    color: #009688;
+    background-color: #fff; 
+}
+
+.contact-me:hover{
+    background-color: Gray;
+} */
+
+.footer {
+    color: #fff;
+    background-color: #0f687d;
+}
+
+.footer-space {
+    margin: 10px;
+}
